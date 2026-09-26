@@ -1,0 +1,1 @@
+/home/luiz/LinkaAi/src/app/build/intermediates/merged_res/debug/layout_main.xml.flat /home/luiz/LinkaAi/src/app/build/intermediates/merged_res/debug/values_values.arsc.flat 
