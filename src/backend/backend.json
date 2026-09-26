@@ -1,0 +1,22 @@
+{
+    "modules-flags":{
+        "chat_global":false,
+        "chat_group":false,
+        "chat":true,
+        "federation_index":false,
+        "federations":false,
+        "friends":false,
+        "images":false,
+        "notifications":false,
+        "post":false,
+        "profiles":false,
+        "reports":false,
+        "search":false,
+        "sincronizer":false,
+        "status":false,
+        "themes":false,
+        "reddit-federation":false,
+        "mastodon-federation":false,
+        "bluesky-federation":false
+    }
+}
