@@ -2,7 +2,7 @@ import json
 import os
 import requests
 import setup
-from . import token_manager
+import token_manager
 class LinkaBotSdk:
     def __init__(self):
         if not os.path.exists("config-login.json"):
