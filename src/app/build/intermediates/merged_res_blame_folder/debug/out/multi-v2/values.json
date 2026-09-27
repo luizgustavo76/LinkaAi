@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.linka.app-mergeDebugResources-3:/values/values.xml",
+            "outputFile": "com.linkaProject.LinkaAi-mergeDebugResources-3:/values/values.xml",
             "map": [
                 {
                     "source": "/home/luiz/LinkaAi/src/app/res/values/strings.xml",

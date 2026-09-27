@@ -16,12 +16,11 @@ repositories {
 }
 
 android {
-    namespace 'com.linka.app'
-    compileSdkVersion 30  // O compilador moderno precisa da API 30 para processar o AAPT2 sem erros
-
+    namespace 'com.linkaProject.LinkaAi'
+    compileSdkVersion 30 
     defaultConfig {
-        applicationId "com.linka.app"
-        minSdkVersion 3    // Garante compatibilidade real com Android 1.5 (Cupcake)
+        applicationId "com.linkaProject.LinkaAi"
+        minSdkVersion 3    
         versionCode 1
         versionName "1.0"
     }

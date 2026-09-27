@@ -1,6 +1,34 @@
 [
     {
-        "merged": "com.linka.app-merged_res-5:/layout_main.xml.flat",
-        "source": "com.linka.app-app-6:/layout/main.xml"
+        "merged": "com.linkaProject.LinkaAi-merged_res-5:/drawable-xxxhdpi_landscape.jpg.flat",
+        "source": "com.linkaProject.LinkaAi-app-6:/drawable-xxxhdpi/landscape.jpg"
+    },
+    {
+        "merged": "com.linkaProject.LinkaAi-merged_res-5:/drawable-hdpi_landscape.jpg.flat",
+        "source": "com.linkaProject.LinkaAi-app-6:/drawable-hdpi/landscape.jpg"
+    },
+    {
+        "merged": "com.linkaProject.LinkaAi-merged_res-5:/layout_login.xml.flat",
+        "source": "com.linkaProject.LinkaAi-app-6:/layout/login.xml"
+    },
+    {
+        "merged": "com.linkaProject.LinkaAi-merged_res-5:/drawable-xxhdpi_landscape.jpg.flat",
+        "source": "com.linkaProject.LinkaAi-app-6:/drawable-xxhdpi/landscape.jpg"
+    },
+    {
+        "merged": "com.linkaProject.LinkaAi-merged_res-5:/drawable-ldpi_landscape.jpg.flat",
+        "source": "com.linkaProject.LinkaAi-app-6:/drawable-ldpi/landscape.jpg"
+    },
+    {
+        "merged": "com.linkaProject.LinkaAi-merged_res-5:/anim_slide_bounce.xml.flat",
+        "source": "com.linkaProject.LinkaAi-app-6:/anim/slide_bounce.xml"
+    },
+    {
+        "merged": "com.linkaProject.LinkaAi-merged_res-5:/drawable-mdpi_landscape.jpg.flat",
+        "source": "com.linkaProject.LinkaAi-app-6:/drawable-mdpi/landscape.jpg"
+    },
+    {
+        "merged": "com.linkaProject.LinkaAi-merged_res-5:/drawable-xhdpi_landscape.jpg.flat",
+        "source": "com.linkaProject.LinkaAi-app-6:/drawable-xhdpi/landscape.jpg"
     }
 ]

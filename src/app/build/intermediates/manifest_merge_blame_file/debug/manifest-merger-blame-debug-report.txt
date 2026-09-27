@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.linka.app"
+3    package="com.linkaProject.LinkaAi"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -16,7 +16,7 @@
 12
 13    <application android:debuggable="true" >
 13-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:8:5-18:19
-14        <activity android:name="com.linka.app.MainActivity" >
+14        <activity android:name="com.linkaProject.LinkaAi.MainActivity" >
 14-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:10:9-16:20
 14-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:11:13-41
 15            <intent-filter>

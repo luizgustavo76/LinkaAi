@@ -1,8 +1,8 @@
-com.linka.app-pngs-0 /home/luiz/LinkaAi/src/app/build/generated/res/pngs/debug
-com.linka.app-resValues-1 /home/luiz/LinkaAi/src/app/build/generated/res/resValues/debug
-com.linka.app-rs-2 /home/luiz/LinkaAi/src/app/build/generated/res/rs/debug
-com.linka.app-mergeDebugResources-3 /home/luiz/LinkaAi/src/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.linka.app-mergeDebugResources-4 /home/luiz/LinkaAi/src/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.linka.app-merged_res-5 /home/luiz/LinkaAi/src/app/build/intermediates/merged_res/debug
-com.linka.app-app-6 /home/luiz/LinkaAi/src/app/res
-com.linka.app-debug-7 /home/luiz/LinkaAi/src/app/src/debug/res
+com.linkaProject.LinkaAi-pngs-0 /home/luiz/LinkaAi/src/app/build/generated/res/pngs/debug
+com.linkaProject.LinkaAi-resValues-1 /home/luiz/LinkaAi/src/app/build/generated/res/resValues/debug
+com.linkaProject.LinkaAi-rs-2 /home/luiz/LinkaAi/src/app/build/generated/res/rs/debug
+com.linkaProject.LinkaAi-mergeDebugResources-3 /home/luiz/LinkaAi/src/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.linkaProject.LinkaAi-mergeDebugResources-4 /home/luiz/LinkaAi/src/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.linkaProject.LinkaAi-merged_res-5 /home/luiz/LinkaAi/src/app/build/intermediates/merged_res/debug
+com.linkaProject.LinkaAi-app-6 /home/luiz/LinkaAi/src/app/res
+com.linkaProject.LinkaAi-debug-7 /home/luiz/LinkaAi/src/app/src/debug/res

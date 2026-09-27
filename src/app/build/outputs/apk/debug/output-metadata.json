@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.linka.app",
+  "applicationId": "com.linkaProject.LinkaAi",
   "variantName": "debug",
   "elements": [
     {
@@ -13,7 +13,7 @@
       "attributes": [],
       "versionCode": 1,
       "versionName": "1.0",
-      "outputFile": "LinkaClassic-debug.apk"
+      "outputFile": "LinkaAi-debug.apk"
     }
   ],
   "elementType": "File"

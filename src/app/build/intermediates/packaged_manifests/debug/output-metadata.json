@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.linka.app",
+  "applicationId": "com.linkaProject.LinkaAi",
   "variantName": "debug",
   "elements": [
     {

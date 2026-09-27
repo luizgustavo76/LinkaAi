@@ -27,7 +27,7 @@ ADDED from /home/luiz/LinkaAi/src/app/AndroidManifest.xml:6:5-67
 		ADDED from /home/luiz/LinkaAi/src/app/AndroidManifest.xml:6:22-64
 application
 ADDED from /home/luiz/LinkaAi/src/app/AndroidManifest.xml:8:5-18:19
-activity#com.linka.app.MainActivity
+activity#com.linkaProject.LinkaAi.MainActivity
 ADDED from /home/luiz/LinkaAi/src/app/AndroidManifest.xml:10:9-16:20
 	android:name
 		ADDED from /home/luiz/LinkaAi/src/app/AndroidManifest.xml:11:13-41
