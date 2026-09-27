@@ -10,8 +10,12 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
 
-    <application android:debuggable="true" >
-        <activity android:name="com.linkaProject.LinkaAi.MainActivity" >
+    <application
+        android:debuggable="true"
+        android:label="LinkaAi" >
+        <activity
+            android:name="com.linkaProject.LinkaAi.MainActivity"
+            android:label="Enter" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
