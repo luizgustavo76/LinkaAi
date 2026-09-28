@@ -14,28 +14,41 @@
 11-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:6:5-67
 11-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:6:22-64
 12
-13    <application
-13-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:8:5-20:19
-14        android:debuggable="true"
-15        android:label="LinkaAi" >
-15-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:9:5-28
-16        <activity
-16-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:11:9-18:20
-17            android:name="com.linkaProject.LinkaAi.MainActivity"
-17-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:12:13-41
-18            android:label="Enter" >
-18-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:13:13-34
-19            <intent-filter>
-19-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:14:13-17:29
-20                <action android:name="android.intent.action.MAIN" />
-20-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:15:17-69
-20-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:15:25-66
-21
-22                <category android:name="android.intent.category.LAUNCHER" />
-22-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:16:17-77
-22-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:16:27-74
-23            </intent-filter>
-24        </activity>
-25    </application>
-26
-27</manifest>
+13    <supports-screens
+13-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:7:5-12:37
+14        android:anyDensity="true"
+14-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:12:9-34
+15        android:largeScreens="true"
+15-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:10:9-36
+16        android:normalScreens="true"
+16-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:9:9-37
+17        android:smallScreens="true"
+17-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:8:9-36
+18        android:xlargeScreens="false" />
+18-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:11:9-38
+19
+20    <application
+20-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:13:5-25:19
+21        android:debuggable="true"
+22        android:label="LinkaAi" >
+22-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:14:5-28
+23        <activity
+23-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:16:9-23:20
+24            android:name="com.linkaProject.LinkaAi.MainActivity"
+24-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:17:13-41
+25            android:label="Enter" >
+25-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:18:13-34
+26            <intent-filter>
+26-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:19:13-22:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:20:17-69
+27-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:20:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:21:17-77
+29-->/home/luiz/LinkaAi/src/app/AndroidManifest.xml:21:27-74
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

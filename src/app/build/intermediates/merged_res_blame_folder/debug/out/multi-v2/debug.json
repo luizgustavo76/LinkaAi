@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.linkaProject.LinkaAi-merged_res-5:/values_values.arsc.flat",
+            "outputFile": "/home/luiz/.gradle/daemon/7.5/com.linkaProject.LinkaAi-merged_res-5:/values_values.arsc.flat",
             "map": [
                 {
                     "source": "/home/luiz/LinkaAi/src/app/res/values/strings.xml",
