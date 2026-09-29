@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#c9c9c9">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#a6a6a6">
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:text="Back"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:text="Login"
+            android:textStyle="bold"
+            android:textSize="14dp"
+            android:textColor="#000000"/>
+    </LinearLayout>  
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="Login"
+        android:textStyle="bold"
+        android:textSize="14dp"
+        android:textColor="#464646"/>
+    <EditText
+        android:id="@+id/edtUsername"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:hint="Username"/>
+    <EditText
+        android:id="@+id/edtPassword"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:hint="Password"
+        android:inputType="textPassword"/>
+</LinearLayout>
